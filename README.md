@@ -224,7 +224,7 @@ Before running the project, ensure the following software is installed on your s
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Investment_Agent.git
+git clone https://github.com/urwashi-kumari/AI-Investment_Agent.git
 ```
 
 ```bash
@@ -449,10 +449,9 @@ The following enhancements can be added in future releases:
 
 Computer Science and Engineering Student
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/urwashi-kumari
 
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
+LinkedIn:https://www.linkedin.com/in/urwashikumari17/
 
 
 ## License
