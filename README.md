@@ -9,6 +9,17 @@ The platform combines live stock market information from Finnhub, web search res
 Instead of manually researching multiple financial websites and news sources, InvestIQ AI provides a unified dashboard that simplifies investment research through an intuitive and interactive user experience.
 
 
+## Live Demo
+
+### Frontend (Vercel)
+
+https://ai-investment-agent-six.vercel.app
+
+### Backend API (Render)
+
+https://ai-investment-agent-7rv9.onrender.com
+
+
 
 ## Overview
 
@@ -425,7 +436,8 @@ The following enhancements can be added in future releases:
 ### Home Page
 
 > Add a screenshot of the landing page here.
-![alt text](<Screenshot 2026-07-06 233639.png>)
+![homepage](<screenshots/homepage.png>)
+![loadingpage](<screenshots/loadingpage.png>)
 
 
 ---
@@ -433,15 +445,16 @@ The following enhancements can be added in future releases:
 ### Investment Dashboard
 
 > Add a screenshot showing the AI-generated investment report.
-![alt text](<Screenshot 2026-07-06 233651.png>)
+![investment dashboard](screenshots/investmentdashboard.png)
 
+![investment](screenshots/investment.png)
 ---
 
 ### Company Profile
 
 > Add a screenshot displaying the company profile and live stock information.
-![alt text](<Screenshot 2026-07-06 233651-1.png>)
-![alt text](<Screenshot 2026-07-06 233702.png>)
+![company profile](<screenshots/company profile.png>)
+
 
 ## Author
 
