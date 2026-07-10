@@ -4,9 +4,10 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/server.js",
-    "test-gemini": "node src/test.js"
-  },
+  "start": "node src/server.js",
+  "dev": "nodemon src/server.js",
+  "test-gemini": "node src/test.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
